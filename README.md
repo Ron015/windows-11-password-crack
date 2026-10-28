@@ -162,6 +162,11 @@ net user administrator /active:yes
 
 ---
 
+### 6-2. USE ADVANCE DIRECT GUI MODE MEAN MENU FOR PASSWORD RESET
+***Open The GUI MODE MEAN USER PASSWORD MANAGE MENU***
+```cmd
+control userpasswords2
+```
 ### 7. Restore Security
 
 Once logged into Windows:
